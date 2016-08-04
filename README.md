@@ -4,4 +4,4 @@ A simplified test for wide and deep networks using Tensorflow. Check [blog post]
 
 See the [markdown version of the Jupyter notebook](models_for_deep_learning/models_for_deep_learning.md) in case of any problem. 
 
-!(blog_imgs/fig48.png)
+![classifier](blog_imgs/fig48.png)
